@@ -1,7 +1,10 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Building a Student Intervention System
-
+ As education has grown to  rely more and more on technology, more and more data is available for examination and prediction. Logs of students activities, grades, interactions with teachers and fellow students, and more are now captured through learning management systems like Canvas and Edmodo and available in real time. 
+Within all levels of educations, there exists a push to help increase the likelihood of student success without watering down the education or engaging in behaviors that raise the likelihood of passing metrics without improving the actual underlying learning. Graduation rates are often the criteria of choice for this, and educators and administrators are after new ways to predict success and failure early enough  to stage effective interventions, as well as to identify the effectiveness of different intervention.
+Our goal is to model the factors that predict how likely a student is to pass their school final exam.
+  
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -14,9 +17,6 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
-### Code
-
-Template code is provided in the `student_intervention.ipynb` notebook file. You will also be required to use the `student-data.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 ### Run
 
